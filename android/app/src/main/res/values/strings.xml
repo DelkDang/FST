@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">FST</string>
-    <string name="title_activity_main">FST</string>
+    <string name="app_name">fst</string>
+    <string name="title_activity_main">fst</string>
     <string name="package_name">example.fst</string>
     <string name="custom_url_scheme">example.fst</string>
 </resources>

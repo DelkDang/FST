@@ -1,7 +1,7 @@
 {
   "appId": "example.fst",
-  "appName": "FST",
-  "webDir": "www",
+  "appName": "fst",
+  "webDir": "dist",
   "server": {
     "androidScheme": "https"
   }
